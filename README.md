@@ -30,8 +30,8 @@ Click over [here](./Screenshot.png) to see the solution screenshot.
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/inaveentata/Advice-generator-app)
+- Live Site URL: [Live site URL](https://advice-generator-app-29-may-2022.netlify.app/)
 
 ## My process
 
